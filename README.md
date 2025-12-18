@@ -94,15 +94,15 @@ Frontend will run at:
 ```
 http://localhost:3000
 ```
-###Implementation Details  
+### Implementation Details  
 
 -The frontend communicates with the backend using RESTful APIs.  
 -Equipment data is stored persistently in a local SQLite database.  
 -Search and sorting are implemented on the client side to keep backend logic simple.  
 -The application is stateless and does not require authentication.  
 
-##Conclusion  
-###This project demonstrates:  
+## Conclusion  
+### This project demonstrates:  
 Full-stack development using React and Node.js  
 REST API design using Express  
 Persistent data storage using SQLite  
