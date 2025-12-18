@@ -11,7 +11,6 @@ A simple full-stack web application to manage and track equipment.
 - Edit existing equipment
 - Delete equipment
 - Search equipment by name, type, or status
-- Sort equipment by clicking table headers
 - Responsive UI (works on desktop & mobile)
 
 ---
@@ -98,7 +97,7 @@ http://localhost:3000
 
 -The frontend communicates with the backend using RESTful APIs.  
 -Equipment data is stored persistently in a local SQLite database.  
--Search and sorting are implemented on the client side to keep backend logic simple.  
+-Search are implemented on the client side to keep backend logic simple.  
 -The application is stateless and does not require authentication.  
 
 ## Conclusion  
