@@ -64,7 +64,7 @@ EQUIPMENT_TRACKER/
 ### 1️. Clone the repository
 ```bash
 git clone <your-github-repo-url>
-cd equipment-tracker
+cd Equipment_tracker
 ```
 ### 2. Run Backend
 ```
